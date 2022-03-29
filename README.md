@@ -9,16 +9,13 @@ GitHub Community is built to support all GitHub users on their educational journ
 
 ### Quick Start
 
-[Welcome Center](https://github.com/github-community/GitHub-Community/discussions)
-
-[Join Global Campus](https://education.github.com/benefits?type=student) 
-
-Contributing Guidelines
+* [Welcome Center](https://github.com/github-community/GitHub-Community/discussions)
+* [Join Global Campus](https://education.github.com/benefits?type=student) 
+* Contributing Guidelines
 
 
 ### Documentation
 
-Terms & Conditions
-
-Code of Conduct
+* Terms & Conditions
+* Code of Conduct
 
