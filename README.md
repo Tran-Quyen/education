@@ -7,11 +7,15 @@ GitHub Community is built to support all GitHub users on their educational journ
 
 * [Welcome Center](https://github.com/github-community/GitHub-Community/discussions)
 * [Join Global Campus](https://education.github.com/benefits?type=student) 
-* Contributing Guidelines
-
+* [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
+* [Student Developer Pack Application & FAQs](https://github.com/github-community/GitHub-Community/discussions/9)
 
 ### Documentation
 
-* Terms & Conditions
-* Code of Conduct
+* [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
+* [GitHub Community Forum Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct)
 
+### Additional Resources
+
+* [GitHub Feedback](https://github.com/github/feedback/discussions): Public feedback discussions & feature requests
+* [GitHub Community Forum](https://github.community/): Ask questions, get answers, share expertise on all GitHub prodcuts
