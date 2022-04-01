@@ -5,10 +5,10 @@ GitHub Community is built to support all GitHub users on their educational journ
 
 ### Quick Start
 
-* [Welcome Center](https://github.com/github-community/GitHub-Community/discussions)
+* [Welcome Center](https://github.com/orgs/github-community/discussions)
 * [Join Global Campus](https://education.github.com/benefits?type=student) 
 * [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
-* [Student Developer Pack Application & FAQs](https://github.com/github-community/GitHub-Community/discussions/9)
+* [Student Developer Pack Application & FAQs](https://github.com/orgs/github-community/discussions/9)
 
 ### Documentation
 
@@ -19,4 +19,4 @@ GitHub Community is built to support all GitHub users on their educational journ
 
 * [GitHub Feedback](https://github.com/github/feedback/discussions): Public feedback discussions & feature requests
 * [GitHub Community Forum](https://github.community/): Ask questions, get answers, share expertise on all GitHub products
-* [GitHub Education Community](https://education.github.community/): Deprecated, read-only public forum for GitHub Education
+* [_Read Only_: GitHub Education Discourse Forum](https://education.github.community/) The GitHub Education Forum has moved to GitHub Discussions (this org! 🎉) The old posts are available in read-only for a limited time.
